@@ -1,6 +1,6 @@
 #!/bin/bash
 #Author: Scott Spangler
-#Date: July 23, 2016
+#Date: July 25, 2016
 #Version: 1.0
 #Provision a remote system with updates, users, ssh keys and firewall rules.
 

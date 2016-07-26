@@ -1,6 +1,6 @@
 #!/bin/bash
 #Author: Scott Spangler
-#Date: July 23, 2016
+#Date: July 25, 2016
 #Version: 1.1
 #Script to automatically create a linode and provision it.
 
